@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="EDDFase1_202001950" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/EDDFase1_202001950" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/EDDFase1_202001950" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Empleado.cpp" />
+		<Unit filename="include/Empleado.h" />
+		<Unit filename="include/ListaCircular.cpp" />
+		<Unit filename="include/ListaCircular.h" />
+		<Unit filename="include/ListaDoble.cpp" />
+		<Unit filename="include/ListaDoble.h" />
+		<Unit filename="include/NodoCircular.cpp" />
+		<Unit filename="include/NodoCircular.h" />
+		<Unit filename="include/NodoCola.cpp" />
+		<Unit filename="include/NodoCola.h" />
+		<Unit filename="include/NodoListaDoble.cpp" />
+		<Unit filename="include/NodoListaDoble.h" />
+		<Unit filename="include/NodoMatriz.cpp" />
+		<Unit filename="include/NodoMatriz.h" />
+		<Unit filename="include/Prioridad_Proy.cpp" />
+		<Unit filename="include/Prioridad_Proy.h" />
+		<Unit filename="include/Proyecto.cpp" />
+		<Unit filename="include/Proyecto.h" />
+		<Unit filename="main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

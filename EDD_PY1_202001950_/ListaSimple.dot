@@ -1,0 +1,9 @@
+digraph migrafica{
+ rankdir=LR; 
+ node[shape=box]nodo0[label="PY-102
+PRIORIDAD: A"]; 
+nodo1[label="PY-101
+PRIORIDAD: B"]; 
+nodo0 -> nodo1
+
+ }

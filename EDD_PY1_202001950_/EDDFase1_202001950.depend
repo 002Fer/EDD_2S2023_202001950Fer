@@ -1,0 +1,274 @@
+# depslib dependency file v1.0
+1693259065 source:c:\users\jose miguel\desktop\eddfase1_202001950\main.cpp
+	<iostream>
+	<string>
+	"ListaCircular.h"
+	"Prioridad_Proy.h"
+
+1693201252 source:c:\users\jose miguel\desktop\eddfase1_202001950\include\empleado.cpp
+	"Empleado.h"
+
+1693201174 c:\users\jose miguel\desktop\eddfase1_202001950\include\empleado.h
+	<string>
+
+1693203798 source:c:\users\jose miguel\desktop\eddfase1_202001950\include\nodocircular.cpp
+	"NodoCircular.h"
+
+1693201492 c:\users\jose miguel\desktop\eddfase1_202001950\include\nodocircular.h
+	<string>
+	"Empleado.h"
+
+1693203981 source:c:\users\jose miguel\desktop\eddfase1_202001950\include\listacircular.cpp
+	"ListaCircular.h"
+
+1693203824 c:\users\jose miguel\desktop\eddfase1_202001950\include\listacircular.h
+	"NodoCircular.h"
+	<string>
+	<iostream>
+	<fstream>
+	<string.h>
+	<cstring>
+	<sstream>
+	<stdlib.h>
+
+1693259007 source:c:\users\jose miguel\desktop\eddfase1_202001950\include\prioridad_proy.cpp
+	"Prioridad_Proy.h"
+
+1693257600 c:\users\jose miguel\desktop\eddfase1_202001950\include\prioridad_proy.h
+	"NodoCola.h"
+	"Proyecto.h"
+	<string>
+	<iostream>
+
+1693254021 c:\users\jose miguel\desktop\eddfase1_202001950\include\nodocola.h
+	"Proyecto.h"
+
+1693253720 c:\users\jose miguel\desktop\eddfase1_202001950\include\proyecto.h
+	<string>
+
+1693257693 source:c:\users\jose miguel\desktop\eddfase1_202001950\include\nodocola.cpp
+	"NodoCola.h"
+
+1693258962 source:c:\users\jose miguel\desktop\eddfase1_202001950\include\proyecto.cpp
+	"Proyecto.h"
+
+1693438670 source:c:\users\jose miguel\desktop\edd_py1_fase1\include\empleado.cpp
+	"Empleado.h"
+
+1693439282 c:\users\jose miguel\desktop\edd_py1_fase1\include\empleado.h
+	<string>
+
+1693439205 source:c:\users\jose miguel\desktop\edd_py1_fase1\include\listacircular.cpp
+	"ListaCircular.h"
+
+1693438751 c:\users\jose miguel\desktop\edd_py1_fase1\include\listacircular.h
+	"NodoCircular.h"
+	<string>
+	<iostream>
+	<fstream>
+	<string.h>
+	<cstring>
+	<sstream>
+	<stdlib.h>
+
+1693438689 c:\users\jose miguel\desktop\edd_py1_fase1\include\nodocircular.h
+	<string>
+	"Empleado.h"
+
+1693438713 source:c:\users\jose miguel\desktop\edd_py1_fase1\include\nodocircular.cpp
+	"NodoCircular.h"
+
+1693291432 source:c:\users\jose miguel\desktop\edd_py1_fase1\include\nodocola.cpp
+	"NodoCola.h"
+
+1693291254 c:\users\jose miguel\desktop\edd_py1_fase1\include\nodocola.h
+	"Proyecto.h"
+
+1693291930 c:\users\jose miguel\desktop\edd_py1_fase1\include\proyecto.h
+	<string>
+
+1693291193 source:c:\users\jose miguel\desktop\edd_py1_fase1\include\proyecto.cpp
+	"Proyecto.h"
+
+1693439301 source:c:\users\jose miguel\desktop\edd_py1_fase1\main.cpp
+	<iostream>
+	<string>
+	"ListaCircular.h"
+	"Prioridad_Proy.h"
+	"ListaDoble.h"
+	<fstream>
+	<string.h>
+	<cstring>
+	<sstream>
+	<stdlib.h>
+
+1693369638 c:\users\jose miguel\desktop\edd_py1_fase1\include\prioridad_proy.h
+	"NodoCola.h"
+	"Proyecto.h"
+	<string>
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1693416013 source:c:\users\jose miguel\desktop\edd_py1_fase1\include\prioridad_proy.cpp
+	"Prioridad_Proy.h"
+
+1693409128 source:c:\users\jose miguel\desktop\edd_py1_fase1\include\listadoble.cpp
+	"ListaDoble.h"
+
+1693409108 c:\users\jose miguel\desktop\edd_py1_fase1\include\listadoble.h
+	"NodoListaDoble.h"
+	<string>
+
+1693409118 c:\users\jose miguel\desktop\edd_py1_fase1\include\nodolistadoble.h
+	<string>
+
+1693409333 source:c:\users\jose miguel\desktop\edd_py1_fase1\include\nodolistadoble.cpp
+	"NodoListaDoble.h"
+
+1693438670 source:c:\users\jose miguel\desktop\edd_py1_202001950\include\empleado.cpp
+	"Empleado.h"
+
+1693439282 c:\users\jose miguel\desktop\edd_py1_202001950\include\empleado.h
+	<string>
+
+1693439363 source:c:\users\jose miguel\desktop\edd_py1_202001950\include\listacircular.cpp
+	"ListaCircular.h"
+
+1693438751 c:\users\jose miguel\desktop\edd_py1_202001950\include\listacircular.h
+	"NodoCircular.h"
+	<string>
+	<iostream>
+	<fstream>
+	<string.h>
+	<cstring>
+	<sstream>
+	<stdlib.h>
+
+1693438689 c:\users\jose miguel\desktop\edd_py1_202001950\include\nodocircular.h
+	<string>
+	"Empleado.h"
+
+1693409128 source:c:\users\jose miguel\desktop\edd_py1_202001950\include\listadoble.cpp
+	"ListaDoble.h"
+
+1693409108 c:\users\jose miguel\desktop\edd_py1_202001950\include\listadoble.h
+	"NodoListaDoble.h"
+	<string>
+
+1693409118 c:\users\jose miguel\desktop\edd_py1_202001950\include\nodolistadoble.h
+	<string>
+
+1693438713 source:c:\users\jose miguel\desktop\edd_py1_202001950\include\nodocircular.cpp
+	"NodoCircular.h"
+
+1693291432 source:c:\users\jose miguel\desktop\edd_py1_202001950\include\nodocola.cpp
+	"NodoCola.h"
+
+1693291254 c:\users\jose miguel\desktop\edd_py1_202001950\include\nodocola.h
+	"Proyecto.h"
+
+1693291930 c:\users\jose miguel\desktop\edd_py1_202001950\include\proyecto.h
+	<string>
+
+1693409333 source:c:\users\jose miguel\desktop\edd_py1_202001950\include\nodolistadoble.cpp
+	"NodoListaDoble.h"
+
+1693416013 source:c:\users\jose miguel\desktop\edd_py1_202001950\include\prioridad_proy.cpp
+	"Prioridad_Proy.h"
+
+1693369638 c:\users\jose miguel\desktop\edd_py1_202001950\include\prioridad_proy.h
+	"NodoCola.h"
+	"Proyecto.h"
+	<string>
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1693291193 source:c:\users\jose miguel\desktop\edd_py1_202001950\include\proyecto.cpp
+	"Proyecto.h"
+
+1693438670 source:c:\users\jose miguel\desktop\edd_py1_202001950_\include\empleado.cpp
+	"Empleado.h"
+
+1693439282 c:\users\jose miguel\desktop\edd_py1_202001950_\include\empleado.h
+	<string>
+
+1693454831 source:c:\users\jose miguel\desktop\edd_py1_202001950_\include\listadoble.cpp
+	"ListaDoble.h"
+
+1693409108 c:\users\jose miguel\desktop\edd_py1_202001950_\include\listadoble.h
+	"NodoListaDoble.h"
+	<string>
+
+1693409118 c:\users\jose miguel\desktop\edd_py1_202001950_\include\nodolistadoble.h
+	<string>
+
+1693438713 source:c:\users\jose miguel\desktop\edd_py1_202001950_\include\nodocircular.cpp
+	"NodoCircular.h"
+
+1693438689 c:\users\jose miguel\desktop\edd_py1_202001950_\include\nodocircular.h
+	<string>
+	"Empleado.h"
+
+1693291432 source:c:\users\jose miguel\desktop\edd_py1_202001950_\include\nodocola.cpp
+	"NodoCola.h"
+
+1693291254 c:\users\jose miguel\desktop\edd_py1_202001950_\include\nodocola.h
+	"Proyecto.h"
+
+1693291930 c:\users\jose miguel\desktop\edd_py1_202001950_\include\proyecto.h
+	<string>
+
+1693409333 source:c:\users\jose miguel\desktop\edd_py1_202001950_\include\nodolistadoble.cpp
+	"NodoListaDoble.h"
+
+1693416013 source:c:\users\jose miguel\desktop\edd_py1_202001950_\include\prioridad_proy.cpp
+	"Prioridad_Proy.h"
+
+1693369638 c:\users\jose miguel\desktop\edd_py1_202001950_\include\prioridad_proy.h
+	"NodoCola.h"
+	"Proyecto.h"
+	<string>
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1693291193 source:c:\users\jose miguel\desktop\edd_py1_202001950_\include\proyecto.cpp
+	"Proyecto.h"
+
+1693442698 source:c:\users\jose miguel\desktop\edd_py1_202001950_\include\nodomatriz.cpp
+	"NodoMatriz.h"
+
+1693442672 c:\users\jose miguel\desktop\edd_py1_202001950_\include\nodomatriz.h
+	<string>
+	"Proyecto.h"
+	"Empleado.h"
+	"ListaDoble.h"
+
+1693451513 source:c:\users\jose miguel\desktop\edd_py1_202001950_\main.cpp
+	<iostream>
+	<string>
+	"ListaCircular.h"
+	"Prioridad_Proy.h"
+	"ListaDoble.h"
+	<fstream>
+	<string.h>
+	<cstring>
+	<sstream>
+	<stdlib.h>
+
+1693447176 c:\users\jose miguel\desktop\edd_py1_202001950_\include\listacircular.h
+	"NodoCircular.h"
+	<string>
+	<iostream>
+	<fstream>
+	<string.h>
+	<cstring>
+	<sstream>
+	<stdlib.h>
+
+1693451652 source:c:\users\jose miguel\desktop\edd_py1_202001950_\include\listacircular.cpp
+	"ListaCircular.h"
+	<string>
+
